@@ -5,3 +5,6 @@ Very simple app built with [Electron](https://electronjs.org/) to show how simpl
 1. `npm install`
 2. `npm run start-watch`
 
+## Packaging
+1. To create a package for a Windows device on a Mac OS, make sure you have `wine` installed on your machine (`brew install wine`)
+
